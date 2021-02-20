@@ -1,2 +1,2 @@
-# NothingLeft-DuerosSkill
-NothingLeft经典系统的前端之一：Dueros技能
+# NothingLeft-HttpSdk
+- NothingLeft后端对接：HttpSdk
